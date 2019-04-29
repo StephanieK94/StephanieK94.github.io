@@ -91,7 +91,7 @@ Add a separate folder for the test files and then within that folder:
 * $ dotnet add reference ../MainSolution.csproj
   * *Adds the reference from the current test project to the relevant main solution*
 
-# :four: Git Hub
+## :four: Git Hub
 Initially, I needed to create a GitHub account for the projects and repositories for my apprenticeship katas in order for them to be reviewed by my mentor and other developers.
 After creating a GitHub account, I was then able to create a new remote repository.
 
